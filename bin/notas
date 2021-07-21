@@ -1,0 +1,3 @@
+Sobre HOST07:
+mbeltramon / as159xxx
+select count(*) from ASOCIADO.CUENTAS 
